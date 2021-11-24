@@ -1,4 +1,4 @@
-![PyImageSeach Logo](logo.png)
+![PyImageSeach Logo](https://github.com/PyImageSearch/.github/blob/main/profile/logo.png)
 
 ## Who are we?
 
