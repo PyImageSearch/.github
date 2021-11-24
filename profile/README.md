@@ -28,7 +28,7 @@ List of *some* of the courses that we provide:
 - [PyImageSearch Gurus](https://www.pyimagesearch.com/pyimagesearch-gurus/)
 - [Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
 
-## Blogs
+## Blog Posts
 
 We also publish a brand new Computer Vision, Deep Learning, and OpenCV tutorial every Monday at 10AM EST. You can find all the blogs [here](https://www.pyimagesearch.com/blog/).
 
