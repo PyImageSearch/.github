@@ -1,4 +1,4 @@
-# [PyImageSearch](https://www.pyimagesearch.com/)
+![PyImageSeach Logo](logo.png)
 
 ## Who are we?
 
@@ -23,6 +23,7 @@ We have got you covered 🤝. All you need to do it go to our website and scroll
 Just getting **started** with Computer Vision and Deep Learning? Or already a **seasoned practitioner**? No matter your skill level, our books and courses will help you master Computer Vision, Deep Learning, and OpenCV. Check out our [full catalog](https://www.pyimagesearch.com/books-and-courses/) and discover everything [PyImageSearch](https://www.pyimagesearch.com/) has to offer.
 
 List of *some* of the courses that we provide:
+
 - [PyImageSearch University](https://www.pyimagesearch.com/pyimagesearch-university/)
 - [PyImageSearch Gurus](https://www.pyimagesearch.com/pyimagesearch-gurus/)
 - [Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
@@ -32,7 +33,10 @@ List of *some* of the courses that we provide:
 We also publish a brand new Computer Vision, Deep Learning, and OpenCV tutorial every Monday at 10AM EST. You can find all the blogs [here](https://www.pyimagesearch.com/blog/).
 
 Some of the blogs that you may like:
-- 
+
+- [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
+- [COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
+- [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
 
 ## Fun Fact
 
